@@ -45,7 +45,7 @@ Gmail Newsletter Delivery
 
 # 📌 Workflow Screenshot
 
-![Personal AI & Tech News Email Generator using n8n](./Screenshot%202026-05-24%20184556\(1\).png)
+![Personal AI & Tech News Email Generator using n8n](./assets/n8n%20workflow%20screenshot.png)
 
 # 📷 Workflow Overview
 
